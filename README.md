@@ -42,7 +42,6 @@ python chatbot.py
 
 The chatbot will prompt you to ask questions or provide input. Type your queries, and the chatbot will generate responses based on the website data.
 
-```plaintext
 Chatbot: Hello! I am a chatbot. You can ask me anything about the website.
 You: What is the website about?
 Chatbot: Website data: [Title] Description: [Description] User input: What is the website about?

@@ -33,7 +33,7 @@ The chatbot is built using the ChatGPT API and designed to take user inputs, pro
 ## 5. Console Demonstration
 The chatbot functions seamlessly via the console, allowing users to interact, ask questions, and receive relevant responses.
 
-## 🚀 Usage
+### 🚀 Usage
 Console Interaction
 i. Run the script:
   ```plaintext

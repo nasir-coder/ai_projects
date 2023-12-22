@@ -23,7 +23,7 @@ This project showcases the creation of an interactive chatbot using the ChatGPT 
 
 ## 2. Extracting Data
 The script leverages Beautiful Soup for HTML parsing to extract relevant information from the provided website.
-
+  
 ## 3. Processing Data
 Extracted data is structured and utilized as input to the ChatGPT API for generating meaningful responses.
 

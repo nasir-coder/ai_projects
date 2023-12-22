@@ -1,7 +1,7 @@
 # Chatbot with ChatGPT and Web Scraping
 
 <div align="center">
-  <img src="file:///Users/nasir_macns/Downloads/ai-generated-7770474_1280.png" alt="Chatbot Logo">
+  <img src="https://pixabay.com/illustrations/ai-generated-robot-future-chatgpt-7770474/.png" alt="Chatbot Logo">
 </div>
 
 ---

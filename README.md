@@ -48,10 +48,3 @@ You: What is the website about?
 Chatbot: Website data: [Title] Description: [Description] User input: What is the website about?
 
 To exit the chat, type "exit," "quit," or "bye."
-
-# Run the Flask App
-python chatbot.py 
-curl -X POST -H "Content-Type: application/json" -d '{"user_input": "Tell me about the website"}' http://localhost:5000/ask
-
-
-

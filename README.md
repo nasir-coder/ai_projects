@@ -18,7 +18,7 @@ This project showcases the creation of an interactive chatbot using the ChatGPT 
 
   ```plaintext
   OPENAI_API_KEY=<Your_OpenAI_API_Key>
-##  Install required libraries:
+###  Install required libraries:
 - pip install Flask requests beautifulsoup4 python-dotenv openai
 
 ## 2. Extracting Data
@@ -44,12 +44,10 @@ ii. The chatbot will prompt you to ask questions or provide input.
 
 ## Flask API
 i. Run the Flask app:
-  ```plaintext
 -   bash
 -   python chatbot.py
 ii.Use the /ask endpoint to interact with the chatbot via HTTP POST requests.
 
 ## Example:
-  ```plaintext
 -   bash
 -   curl -X POST -H "Content-Type: application/json" -d '{"user_input": "Tell me about the website"}' http://localhost:5000/ask

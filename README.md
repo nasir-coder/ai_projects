@@ -33,23 +33,22 @@ The chatbot is built using the ChatGPT API and designed to take user inputs, pro
 ## 5. Console Demonstration
 The chatbot functions seamlessly via the console, allowing users to interact, ask questions, and receive relevant responses.
 
-### 🚀 Usage
-Console Interaction
+## 🚀 Usage
+### Console Interaction
 i. Run the script:
-  ```plaintext
 -   bash
 -   python chatbot.py
 
 ii. The chatbot will prompt you to ask questions or provide input.
 
-## Flask API
+### Flask API
 i. Run the Flask app:
 
 -   bash
 -   python chatbot.py
 ii.Use the /ask endpoint to interact with the chatbot via HTTP POST requests.
 
-## Example:
+### Example:
 
 -   bash
 -   curl -X POST -H "Content-Type: application/json" -d '{"user_input": "Tell me about the website"}' http://localhost:5000/ask

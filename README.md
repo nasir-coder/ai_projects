@@ -36,8 +36,10 @@ The chatbot functions seamlessly via the console, allowing users to interact, as
 ## 🚀 Usage
 Console Interaction
 i. Run the script:
+  ```plaintext
 -   bash
 -   python chatbot.py
+
 ii. The chatbot will prompt you to ask questions or provide input.
 
 ## Flask API
